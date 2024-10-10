@@ -2,7 +2,7 @@ import requests
 import json
 
 base_url = 'https://v6.exchangerate-api.com/v6'
-api_key = '6ceb5bfa119bc577c39f2792'
+api_key = 'YOUR_API_KEY'
 latest = 'latest/USD'
 pair_con = 'pair'
 currency_1 = input('Input base currency (e.g., USD): ')
