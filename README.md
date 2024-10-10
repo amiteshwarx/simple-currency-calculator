@@ -1,4 +1,4 @@
-# simple-currency-calculator
+# Simple Currency Calculator
 ## Overview:
 This is a simple Python script that converts amounts from one currency to another using real-time exchange rates from the ExchangeRate API. It’s an easy tool for quick currency conversions.
 
